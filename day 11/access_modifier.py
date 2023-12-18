@@ -11,8 +11,6 @@ class Person:
     @password.setter
     def password(self,password):
         self.__password=password
-        
-    
 
   
 person=Person("ram",12,"hello")    
